@@ -45,7 +45,7 @@ end
 
 def retrieve_last_element_from_array(array)
   favorite_numbers=["one", "two", "three", "arrays!"]
-  favorite_numbers=["-1"]
+  favorite_numbers=["3"]
 end
 
 def update_element_from_index(array, index_number, element)
