@@ -40,12 +40,12 @@ end
 
 def retrieve_first_element_from_array(array)
   favorite_numbers=["wow", "two", "three", "four"]
-  favorite_numbers=[0]
+  favorite_numbers=[1]
 end
 
 def retrieve_last_element_from_array(array)
   favorite_numbers=["one", "two", "three", "arrays!"]
-  favorite_numbers=[3]
+  favorite_numbers=[4]
 end
 
 def update_element_from_index(array, index_number, element)
